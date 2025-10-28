@@ -21,4 +21,4 @@ Set up environment variables: API keys
 then run all cells
 
 ## Video Walkthrough
-https://www.loom.com/share/001595ad7c054e96b6bb13d2b0924da7
+[https://www.loom.com/share/001595ad7c054e96b6bb13d2b0924da7](https://www.loom.com/share/001595ad7c054e96b6bb13d2b0924da7?t=117)
