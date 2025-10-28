@@ -1,10 +1,10 @@
-# Mini-RAG-System-Movie-Plots
+## Mini-RAG-System-Movie-Plots
 Build a lightweight Retrieval-Augmented Generation (RAG) system that can answer questions about movie plots from a small subset of the Wikipedia Movie Plots dataset.
 
-# Architecture
+## Architecture
 Prepare Data → Chunking → Retrieval → Structured Prompt → Augmented Generation → Structured JSON Response
 
-🚀 Instructions for Running
+## 🚀 Instructions for Running
 1️⃣ Clone the repository to your local machine:
 ```git clone https://github.com/samanta-sc/Mini-RAG-System-Movie-Plots.git```
 ```cd Mini-RAG-System-Movie-Plots```
@@ -18,4 +18,4 @@ Prepare Data → Chunking → Retrieval → Structured Prompt → Augmented Gene
 
 4️⃣ Run the application
 Set up environment variables: API keys
-```streamlit run app.py```
+then run all cells
