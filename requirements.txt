@@ -1,0 +1,11 @@
+streamlit  
+chromadb  
+groq  
+langchain  
+langchain-groq  
+langchain_community  
+langchain_huggingface  
+langchain-core  
+sentence-transformers  
+python-dotenv
+certifi
